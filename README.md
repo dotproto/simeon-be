@@ -9,6 +9,6 @@ On February 23, 2015 I registered the domain `simeon.be` with the plan of making
 * `simeon.be/all/pshh`
 * `simeon.be/whateves`
 
-# That's amazing, how can I help
+# That's amazing, how can I help?
 
-You're a bad person and you should feel bad. Now go open a new issue and tell me what reactions and URLs you'd like to see.
+You're a bad person and you should feel bad. Now [go open a new issue](https://github.com/svincent/simeon-be/issues/new) and tell me what reactions and URLs you'd like to see.
